@@ -580,7 +580,7 @@ header .follow a:hover {
 }
 
 .contact .row form textarea {
-  height: 20rem;
+  height: 70px;
   resize: none;
 }
 
